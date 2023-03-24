@@ -21,6 +21,9 @@ Rules:
 - If the card is a defusing card, then the card is removed from the deck. This card can be used to defuse one bomb that may come in subsequent cards drawn from the deck.
 - If the card is a shuffle card, then the game is restarted and the deck is filled with 5 cards again.
 
+![App](https://user-images.githubusercontent.com/109410990/227479849-d8a1d0f0-f75f-437c-b697-ef2d56f0b9dd.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
