@@ -1,4 +1,10 @@
+For Running the App & Building
 
+npm install
+
+For Building the app
+
+npm run build
 
 # Getting Started with Create React App
 
