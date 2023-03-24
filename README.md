@@ -6,6 +6,21 @@ For Building the app
 
 npm run build
 
+Web Based Game
+
+This will be an online single-player card game that consists of 4 different types of cards
+
+- Cat card 😼
+- Defuse card 🙅‍♂️
+- Shuffle card 🔀
+- Exploding kitten card 💣
+
+Rules: 
+- If the card drawn from the deck is a cat card, then the card is removed from the deck.
+- If the card is exploding kitten (bomb) then the player loses the game.
+- If the card is a defusing card, then the card is removed from the deck. This card can be used to defuse one bomb that may come in subsequent cards drawn from the deck.
+- If the card is a shuffle card, then the game is restarted and the deck is filled with 5 cards again.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
